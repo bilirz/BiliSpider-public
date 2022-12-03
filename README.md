@@ -1,6 +1,6 @@
 # 哔哩哔哩爬虫程序
 
-[![License](https://img.shields.io/github/license/bilirz/BiliSpider.svg)](https://github.com/bilirz/BiliSpider/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/bilirz/BiliSpider.svg)](https://github.com/bilirz/BiliSpider-public/blob/main/LICENSE)
 
 - 需要安装的库
     - `pip install requests`
